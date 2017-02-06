@@ -1,29 +1,85 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: SDL
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Analyse legacy product, design transition to modern technologies and own the technical vision of the product. Work in collaboration with product management to evolve the product functionally and technically.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Nov. 2011
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Architect / Product Owner
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: ALGOSYSTEMS S.A
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Organizing, managing and providing procedures for all steps of application development, maintenance and quality assurance
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Mar. 2007
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Development Manager, Lead Developer and Architect
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Realize S.A.
+    i18n: company_c
+  desc:
+    detail: Consulting financial institution Eurobank developing win32 banking application with .NET C#
+    i18n: company_c_desc
+  date:
+    detail: Feb. 2006
+    i18n: company_c_date
+  job:
+    detail: Senior Developer 
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Research Academic Computer Technology Institute
+    i18n: company_d
+  desc:
+    detail: Developer for project “Further Education”. First European live Office and Windows Test Application.
+    i18n: company_d_desc
+  date:
+    detail: Sep. 2002
+    i18n: company_d_date
+  job:
+    detail: Junior Developer 
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hellenic Open University
+    i18n: company_e
+  desc:
+    detail: Design and implementation of watermark application
+    i18n: company_e_desc
+  date:
+    detail: 2004 - 2005
+    i18n: company_e_date
+  job:
+    detail: Junior Developer 
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: Singular Logic S.A
+    i18n: company_f
+  desc:
+    detail: Worked for GEMINI and AMIGO were European research applications, focused on creating a speech portal engine that would handle all aspects of creating a peech portal including grammar, dictionary and rules.• C# .NET, SQL Server, SAPI, C++ and php
+    i18n: company_f_desc
+  date:
+    detail: 2004 - 2005
+    i18n: company_f_date
+  job:
+    detail: Junior Developer 
+    i18n: company_f_job
   icon: fa-plus-square

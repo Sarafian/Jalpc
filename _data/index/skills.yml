@@ -1,12 +1,39 @@
 # skills section data
-- name: Python
+- name: Microsoft .NET framework
   percentage: 100
 
-- name: HTML/CSS
-  percentage: 95
+- name: PowerShell
+  percentage: 100
 
-- name: jQuery
-  percentage: 90
+- name: Automation
+  percentage: 100
 
-- name: Vuejs
-  percentage: 20
+- name: Markdown
+  percentage: 100
+
+- name: Federated authentication
+  percentage: 100
+
+- name: ADFS
+  percentage: 100
+
+- name: PlantUml
+  percentage: 100
+
+- name: Git
+  percentage: 80
+
+- name: SQL
+  percentage: 80
+
+- name: Jekyll
+  percentage: 60
+
+- name: Jira and Confluence
+  percentage: 50
+
+- name: Java
+  percentage: 50
+
+- name: Amazon Web Services (AWS)
+  percentage: 30
